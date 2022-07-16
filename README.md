@@ -5,9 +5,16 @@
 
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
-<h3 align="left">Links:</h3>
-[Small CLI brain-game] (https://github.com/ChandeOk/frontend-project-lvl1)
-<p align="left">
+<h3 align="left">Learning projects:</h3>
+<ul>
+  <li><a href="https://github.com/ChandeOk/frontend-project-lvl1/">Small CLI brain-game</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-todo">ToDo with localStorage</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-restaurant">Restaurant page</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-tic-tac-toe">TicTacToe</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-dashboard">Grid layout page</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-rps">Rock Paper Scissors</a></li>
+</ul>
+  <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
