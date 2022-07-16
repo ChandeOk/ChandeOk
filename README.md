@@ -5,7 +5,8 @@
 
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
+[Small CLI brain-game] (https://github.com/ChandeOk/frontend-project-lvl1)
 <p align="left">
 </p>
 
