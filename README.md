@@ -14,6 +14,7 @@
   <li><a href="https://github.com/ChandeOk/odin-dashboard">Grid layout page</a></li>
   <li><a href="https://github.com/ChandeOk/odin-rps">Rock Paper Scissors</a></li>
   <li><a href="https://github.com/ChandeOk/forkify-jonas-course">Recipe Website with localStorage</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a><li>
 </ul>
   <p align="left">
 </p>
