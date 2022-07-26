@@ -13,7 +13,8 @@
   <li><a href="https://github.com/ChandeOk/odin-tic-tac-toe">TicTacToe</a> => <a href="https://chandeok.github.io/odin-tic-tac-toe/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-dashboard">Grid layout page</a> => <a href="https://chandeok.github.io/odin-dashboard/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-rps">Rock Paper Scissors</a> => <a href="https://chandeok.github.io/odin-rps/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/forkify-jonas-course">Recipe Website with localStorage</a> => <a href="https://forkify-from-jonas-course.netlify.app/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/forkify-jonas-course">Recipe Website with localStorage from video course</a> => <a href="https://forkify-from-jonas-course.netlify.app/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a> => <a href="http://lolweather.fun/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a> => <a href="https://chandeok.github.io/odin-battleship/">Live Demo</a></li>
 </ul>
   <p align="left">
