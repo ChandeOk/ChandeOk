@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
-<h3 align="left">Learning projects:</h3>
+<h3 align="left">Learning self-made projects:</h3>
 <ul>
   <li><a href="https://github.com/ChandeOk/frontend-project-lvl1/">Small CLI brain-game</a></li>
   <li><a href="https://github.com/ChandeOk/odin-todo">ToDo with localStorage</a> => <a href="https://chandeok.github.io/odin-todo/">Live Demo</a></li>
@@ -13,7 +13,7 @@
   <li><a href="https://github.com/ChandeOk/odin-tic-tac-toe">TicTacToe</a> => <a href="https://chandeok.github.io/odin-tic-tac-toe/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-dashboard">Grid layout page</a> => <a href="https://chandeok.github.io/odin-dashboard/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-rps">Rock Paper Scissors</a> => <a href="https://chandeok.github.io/odin-rps/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/forkify-jonas-course">Recipe Website with localStorage from video course</a> => <a href="https://forkify-from-jonas-course.netlify.app/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-landing">Landing Page</a> => <a href="https://chandeok.github.io/odin-landing/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a> => <a href="http://lolweather.fun/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a> => <a href="https://chandeok.github.io/odin-battleship/">Live Demo</a></li>
 </ul>
