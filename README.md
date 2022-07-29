@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
-<h3 align="left">Learning self-made projects:</h3>
+<h3 align="left">Self-made projects:</h3>
 <ul>
   <li><a href="https://github.com/ChandeOk/frontend-project-lvl1/">Small CLI brain-game</a></li>
   <li><a href="https://github.com/ChandeOk/odin-calc">Calculator</a></li>
