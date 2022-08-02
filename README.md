@@ -20,6 +20,10 @@
   <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a> => <a href="http://lolweather.fun/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a> => <a href="https://chandeok.github.io/odin-battleship/">Live Demo</a></li>
 </ul>
+<h3 align="left">React:</h3>
+<ul>
+  <li><a href="https://github.com/ChandeOk/CV-application">CV Application</a> => <a href="https://chandeok.github.io/CV-application/">Live Demo</a></li>
+</ul>
   <p align="left">
 </p>
 
