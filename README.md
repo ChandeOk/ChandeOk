@@ -23,6 +23,7 @@
 <h3 align="left">React:</h3>
 <ul>
   <li><a href="https://github.com/ChandeOk/CV-application">CV Application</a> => <a href="https://chandeok.github.io/CV-application/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-memory-game">Memory Game</a> => <a href="https://chandeok.github.io/odin-memory-game/">Live Demo</a></li>
 </ul>
   <p align="left">
 </p>
