@@ -28,6 +28,7 @@
 <h3 align="left">React + FireBase</h3>
 <ul>
   <li><a href="https://github.com/ChandeOk/odin-tag-app">Where is Waldo?</a> => <a href="https://lolchamps-a2f93.firebaseapp.com/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/PhotoMap/tree/main/photomap">PhotoMap(Interactive map with photo tagging and comments)</a> => <a href="https://photomap-a9c91.firebaseapp.com/">Live Demo</a></li>
 </ul>
   <p align="left">
 </p>
