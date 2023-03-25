@@ -34,6 +34,10 @@
 <ul>
    <li><a href="https://github.com/ChandeOk/portfolio">Portfolio with react and mediaqueries</a> => <a href="https://chandeok.github.io/">Live Demo</a></li>
   </ul>
+  <h3 align="left">React + redux</h3>
+  <ul>
+    <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
+  </ul>
   <p align="left">
 </p>
 
