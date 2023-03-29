@@ -6,7 +6,7 @@
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
 <h2 align="left">All projects are self-made:</h2>
-<h3 align="left'>HTML/CSS/Vanilla JS:</h3>
+<h3 align="left">HTML/CSS/Vanilla JS:</h3>
 <ul>
   <li><a href="https://github.com/ChandeOk/frontend-project-lvl1/">Small CLI brain-game</a></li>
   <li><a href="https://github.com/ChandeOk/odin-calc">Calculator</a></li>
