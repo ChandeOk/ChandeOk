@@ -39,6 +39,12 @@
   <ul>
     <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
   </ul>
+  <h3 align="left">Тестовые</h3>
+  <ul>
+    <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
+    <li><a href="https://github.com/ChandeOk/uni-test">Тестовое 3 задания.</a> => <a href="https://chandeok.github.io/uni-test/">Live Demo</a></li>
+  </ul>
+  
   <p align="left">
 </p>
 
