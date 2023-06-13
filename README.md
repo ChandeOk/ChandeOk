@@ -36,6 +36,10 @@
   <ul>
     <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
   </ul>
+  <h3 align="left">Next.js + TypeScript</h3>
+  <ul>
+    <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
+  </ul>
   <h3 align="left">Тестовые</h3>
   <ul>
     <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
