@@ -17,6 +17,7 @@
   <li><a href="https://github.com/ChandeOk/odin-todo">ToDo with localStorage</a> => <a href="https://chandeok.github.io/odin-todo/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a> => <a href="http://lolweather.fun/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a> => <a href="https://chandeok.github.io/odin-battleship/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
 </ul>
 <h3 align="left">React:</h3>
 <ul>
@@ -45,6 +46,7 @@
     <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
     <li><a href="https://github.com/ChandeOk/uni-test">Тестовое 3 задания.</a> => <a href="https://chandeok.github.io/uni-test/">Live Demo</a></li>
     <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
+    <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
   </ul>
   
   <p align="left">
