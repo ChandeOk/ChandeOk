@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Junior Fullstack Developer
 
-- 🌱 I’m currently (still :D) learning **Typescript, NestJS, NodeJS, Tailwind and another web technologies**
+- 🌱 I’m currently (still :D) learning **Typescript, NextJs, NestJS, NodeJS, Tailwind**
 
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
