@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajiv</h1>
-- 🔭 I’m currently working on **minimum portfolio**
 
-- 🌱 I’m currently learning **JavaScript, React, , NodeJS, theodinproject.com**
+- 🔭 I’m currently working as Junior Fullstack Developer
+
+- 🌱 I’m currently (still :D) learning **Typescript, React, NodeJS and another web technologies**
 
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
