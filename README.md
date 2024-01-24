@@ -9,14 +9,11 @@
 <h2 align="left">All projects are self-made:</h2>
 <h3 align="left">HTML/CSS/Vanilla JS:</h3>
 <ul>
-  <li><a href="https://github.com/ChandeOk/frontend-project-lvl1/">Small CLI brain-game</a></li>
-  <li><a href="https://github.com/ChandeOk/odin-calc">Calculator</a></li>
   <li><a href="https://github.com/ChandeOk/odin-tic-tac-toe">TicTacToe</a> => <a href="https://chandeok.github.io/odin-tic-tac-toe/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/odin-restaurant">Restaurant page</a> => <a href="https://chandeok.github.io/odin-restaurant/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-signUp">SignUp page with Form</a> => <a href="https://chandeok.github.io/odin-signUp/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-rps">Rock Paper Scissors</a> => <a href="https://chandeok.github.io/odin-rps/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-todo">ToDo with localStorage</a> => <a href="https://chandeok.github.io/odin-todo/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a> => <a href="http://lolweather.fun/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a></li>
   <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a> => <a href="https://chandeok.github.io/odin-battleship/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
 </ul>
@@ -42,7 +39,7 @@
   <ul>
     <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
   </ul>
-  <h3 align="left">Тестовые</h3>
+  <h3 align="left">Test tasks</h3>
   <ul>
     <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
     <li><a href="https://github.com/ChandeOk/uni-test">Тестовое 3 задания.</a> => <a href="https://chandeok.github.io/uni-test/">Live Demo</a></li>
