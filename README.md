@@ -16,6 +16,7 @@
   <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a></li>
   <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a> => <a href="https://chandeok.github.io/odin-battleship/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/portfolio">Portfolio with react and mediaqueries</a> => <a href="https://chandeok.github.io/">Live Demo</a></li>
 </ul>
 <h3 align="left">React:</h3>
 <ul>
@@ -28,26 +29,22 @@
   <li><a href="https://github.com/ChandeOk/odin-tag-app">Where is Waldo?</a> => <a href="https://lolchamps-a2f93.firebaseapp.com/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/PhotoMap/tree/main/photomap">PhotoMap(Interactive map with photo tagging and comments)</a> => <a href="https://photomap-a9c91.firebaseapp.com/">Live Demo</a></li>
 </ul>
-<h3 align="left">Responsive</h3>
+<h3 align="left">React + redux</h3>
 <ul>
-   <li><a href="https://github.com/ChandeOk/portfolio">Portfolio with react and mediaqueries</a> => <a href="https://chandeok.github.io/">Live Demo</a></li>
-  </ul>
-  <h3 align="left">React + redux</h3>
-  <ul>
-    <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
-  </ul>
-  <h3 align="left">Next.js + TypeScript</h3>
-  <ul>
-    <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
-  </ul>
-  <h3 align="left">Test tasks</h3>
-  <ul>
-    <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
-    <li><a href="https://github.com/ChandeOk/uni-test">Тестовое 3 задания.</a> => <a href="https://chandeok.github.io/uni-test/">Live Demo</a></li>
-    <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
-    <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
-    <li><a href="https://github.com/ChandeOk/only-test">Circle slider page block with mobile version [TypeScript, React, GSAP, Swiper]</a> => <a href="https://chandeok.github.io/only-test/">Live Demo</a></li>
-  </ul>
+  <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
+</ul>
+<h3 align="left">Next.js + TypeScript</h3>
+<ul>
+  <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
+</ul>
+<h3 align="left">Test tasks</h3>
+<ul>
+  <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/uni-test">3 tests</a> => <a href="https://chandeok.github.io/uni-test/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/only-test">Circle slider page block with mobile version [TypeScript, React, GSAP, Swiper]</a> => <a href="https://chandeok.github.io/only-test/">Live Demo</a></li>
+</ul>
   
   <p align="left">
 </p>
