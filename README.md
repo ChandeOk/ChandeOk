@@ -20,6 +20,7 @@
 </ul>
 <h3 align="left">React:</h3>
 <ul>
+  <li><a href="https://github.com/ChandeOk/billiard-test">Simple "billiard" game without physics libraries [TypeScript, React]</a> => <a href="https://chandeok.github.io/billiard-test/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/only-test">Circle slider page block with mobile version [TypeScript, React, GSAP, Swiper]</a> => <a href="https://chandeok.github.io/only-test/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/CV-application">CV Application</a> => <a href="https://chandeok.github.io/CV-application/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/odin-memory-game">Memory Game</a> => <a href="https://chandeok.github.io/odin-memory-game/">Live Demo</a></li>
@@ -44,6 +45,7 @@
   <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/only-test">Circle slider page block with mobile version [TypeScript, React, GSAP, Swiper]</a> => <a href="https://chandeok.github.io/only-test/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/billiard-test">Simple "billiard" game without physics libraries [TypeScript, React]</a> => <a href="https://chandeok.github.io/billiard-test/">Live Demo</a></li>
 </ul>
   
   <p align="left">
