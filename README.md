@@ -7,16 +7,14 @@
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
 <h2 align="left">All projects are self-made:</h2>
-<h3 align="left">HTML/CSS/Vanilla JS:</h3>
+<h3 align="left">Test tasks</h3>
 <ul>
-  <li><a href="https://github.com/ChandeOk/odin-tic-tac-toe">TicTacToe</a> => <a href="https://chandeok.github.io/odin-tic-tac-toe/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/odin-signUp">SignUp page with Form</a> => <a href="https://chandeok.github.io/odin-signUp/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/odin-rps">Rock Paper Scissors</a> => <a href="https://chandeok.github.io/odin-rps/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/odin-todo">ToDo with localStorage</a> => <a href="https://chandeok.github.io/odin-todo/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a></li>
-  <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a> => <a href="https://chandeok.github.io/odin-battleship/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/uni-test">3 tests</a> => <a href="https://chandeok.github.io/uni-test/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/portfolio">Portfolio with react and mediaqueries</a> => <a href="https://chandeok.github.io/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/only-test">Circle slider page block with mobile version [TypeScript, React, GSAP, Swiper]</a> => <a href="https://chandeok.github.io/only-test/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/billiard-test">Simple "billiard" game without physics libraries [TypeScript, React]</a> => <a href="https://chandeok.github.io/billiard-test/">Live Demo</a></li>
 </ul>
 <h3 align="left">React:</h3>
 <ul>
@@ -38,16 +36,18 @@
 <ul>
   <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
 </ul>
-<h3 align="left">Test tasks</h3>
+<h3 align="left">HTML/CSS/Vanilla JS:</h3>
 <ul>
-  <li><a href="https://github.com/ChandeOk/google-lib">Google lib app with react, redux</a> => <a href="https://chandeok.github.io/google-lib">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/uni-test">3 tests</a> => <a href="https://chandeok.github.io/uni-test/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/test-pay-ts/">Next.js App with TypeScript</a> => <a href="https://chandeok.github.io/test-pay-ts/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-tic-tac-toe">TicTacToe</a> => <a href="https://chandeok.github.io/odin-tic-tac-toe/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-signUp">SignUp page with Form</a> => <a href="https://chandeok.github.io/odin-signUp/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-rps">Rock Paper Scissors</a> => <a href="https://chandeok.github.io/odin-rps/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-todo">ToDo with localStorage</a> => <a href="https://chandeok.github.io/odin-todo/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-weather-app">WeatherApp</a></li>
+  <li><a href="https://github.com/ChandeOk/odin-battleship">BattleShip game</a> => <a href="https://chandeok.github.io/odin-battleship/">Live Demo</a></li>
   <li><a href="https://github.com/ChandeOk/mobile-first-layout">MobileFirst layout SCSS</a> => <a href="https://chandeok.github.io/mobile-first-layout/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/only-test">Circle slider page block with mobile version [TypeScript, React, GSAP, Swiper]</a> => <a href="https://chandeok.github.io/only-test/">Live Demo</a></li>
-  <li><a href="https://github.com/ChandeOk/billiard-test">Simple "billiard" game without physics libraries [TypeScript, React]</a> => <a href="https://chandeok.github.io/billiard-test/">Live Demo</a></li>
+  <li><a href="https://github.com/ChandeOk/portfolio">Portfolio with react and mediaqueries</a> => <a href="https://chandeok.github.io/">Live Demo</a></li>
 </ul>
-  
+
   <p align="left">
 </p>
 
