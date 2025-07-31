@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajiv</h1>
 
-- 🔭 I’m currently working as Junior Fullstack Developer
-
-- 🌱 I’m currently (still :D) learning **Typescript, NextJS, NestJS, NodeJS, Tailwind**
+- 🔭 I’m currently working as Fullstack Developer
 
 - 📫 How to reach me: **rajivqcnstg@gmail.com**
 
