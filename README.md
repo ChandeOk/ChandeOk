@@ -4,6 +4,7 @@
 
 - 🔭 Most of my work is in private repos (GitHub & GitLab)
 - 🛠️ What I build:
+  - AI-powered services: <a href="https://primerit.online" target="_blank" rel="noreferrer">primerit.online</a>, <a href="https://obstavit.online" target="_blank" rel="noreferrer">obstavit.online</a>
   - E-commerce: Shopify (Hydrogen), InSales (Liquid), custom shops on PayloadCMS
   - Telegram bots & Mini Apps
   - Backend services, REST APIs, ERP & third-party integrations
